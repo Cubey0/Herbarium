@@ -1,0 +1,11 @@
+# Load required packages 
+    library(RCurl)
+
+    # Create an object for the URL where your data is stored.
+    url <- "c://TEMP/RBGE Specimens.csv"
+
+    # Use getURL from RCurl to download the file.
+    myData <- getURL(url)
+
+    # Finally let R know that the file is in .csv format so that it can create a data frame.
+    myData <- read.csv(myData)   

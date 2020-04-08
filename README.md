@@ -3,41 +3,22 @@ Herbarium
 
 RBGE (E) Herbarium data
 
-Exported using SPEC_OUT_ROB
+http://data.rbge.org.uk/service/dwca/data/darwin_core.zip
 
-with the following fields
+Description
+RBGE's extensive Herbarium numbers nearly three million specimens representing half to two thirds of the world's flora.
+It is considered a leading botanical collection, and every year many researchers from around the world visit to study our specimens in a well-designed and user-friendly
+setting.
+Edinburgh incorporates the following herbaria :-
+CTN: Herbarium, Free Library and Museum, Campbeltown, Strathclyde Region, Scotland U.K.
+EBH: Herbarium, Botanical Society of Edinburgh, Edinburgh, Scotland U.K.
+EDH: Herbarium, Plinian Society, Edinburgh, Scotland U.K.
+EGH: Herbarium, University of Edinburgh, Edinburgh, Scotland U.K.
+GL: (except British) on permanent loan: Herbarium, Botany Department, University of Glasgow, Glasgow G12 8QQ, Scotland U.K.
+KSO: Herbarium, Tweedside Physical and Antiquarian Society Museum
+Kelso, Borders Region, Scotland U.K.
+NCCE: Herbarium, Nature Conservancy Council, 12 Hope Terrace, Edinburgh, Scotland U.K.
+NCE: (tropical pteridophytes): Herbarium, School of Biological Sciences, University of Newcastle upon Tyne, Newcastle upon Tyne NE1 7RU, England U.K.
 
-@ID
-BARCODE
-FAMILY_MC
-FAMILY_NUM
-LABEL_NAME_ITALICS
-LABEL_NAME
-GARD_COLLECTOR
-GARD_COLL_NUM
-GARD_LOCATION
-ACC_NUM
-ACC_NUM_QUAL
-GARD_COLL_DT
-LOCATION
-LOCATION_FULL
-GARD_DESCRIPTION
-GARD_COLLECTION_MISC
-PSOURCE
-PSOURCE_ACC_NUM
-PSOURCE_MISC
-VERIFICATION_SUMMARY
-VERI_DT
-VERI_BY
-VERI_BY_AND_DT
-VERI_AS_FULL
-ASSOCIATED_MAT_SUMMARY
-COLLECTOR_FULL_AND_NUM
-COLL_DT
-COLL_ID
-COLL_LOCALITY_AND_HABITAT
-DESCRIPTION
-COLLECTION_MISC
-SHEET_NUM_FULL
-LABEL_HEADING
-OTHER_LABEL_INFO
+Contacts
+r.cubey@rbge.org.uk
